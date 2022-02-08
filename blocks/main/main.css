@@ -1,8 +1,8 @@
 .main {
-    display: flex;
-    flex-direction: column;
-    width: 92.5%;
-    border: 2px solid green;
-    padding: 56px auto 0;
-    align-self: center;
+  display: flex;
+  flex-direction: column;
+  width: 92.5%;
+  border: 2px solid green;
+  padding: 56px auto 0;
+  align-self: center;
 }
