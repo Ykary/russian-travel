@@ -2,7 +2,6 @@
   align-self: center;
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(284px, 1fr));
-  width: 100%;
+  max-width: 92.5%;
   gap: 16px;
-  border: 2px solid red;
 }

@@ -1,0 +1,8 @@
+.place__website {
+  align-self: end;
+  justify-self: start;
+  color: white;
+  grid-area: website;
+  height: 46px;
+  margin: 0;
+}
