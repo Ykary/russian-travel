@@ -1,5 +1,7 @@
 .photo-grid {
-  align-self: center;
+  -ms-grid-row-align: center;
+      align-self: center;
+  display: -ms-grid;
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(284px, 1fr));
   max-width: 92.5%;
