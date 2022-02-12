@@ -13,3 +13,9 @@
   max-width: 928px;
   }
 }
+
+@media (max-width: 768px) {
+  .lead {
+  max-width: 768px;
+  }
+}

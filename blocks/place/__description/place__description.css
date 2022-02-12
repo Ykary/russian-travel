@@ -8,3 +8,9 @@
   min-width: 600px;
   }
 }
+
+@media (max-width: 768px) {
+  .place__description {
+  min-width: 352px;
+  }
+}

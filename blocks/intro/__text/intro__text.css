@@ -6,3 +6,9 @@
   width: 690px;
   margin: 0 0 33px;
 }
+
+@media (max-width: 768px) {
+  .intro__text {
+    width: 720px;
+  }
+}

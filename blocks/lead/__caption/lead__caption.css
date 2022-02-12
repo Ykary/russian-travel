@@ -7,3 +7,10 @@
   text-transform: uppercase;
   margin: 8px 0 0;
 }
+
+
+@media (max-width: 768px) {
+  .lead__caption {
+  margin-left: 24px;
+  }
+}

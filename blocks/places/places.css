@@ -11,3 +11,11 @@
    max-width: 928px;
   }
 }
+
+@media (max-width: 768px) {
+  .places {
+   width: 720px;
+   padding-top: 19px;
+   padding-bottom: 90px;
+  }
+}
