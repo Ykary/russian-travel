@@ -1,6 +1,13 @@
 .footer {
 width: 92.5%;
+max-width: 1184px;
 align-self: center;
 display: flex;
 justify-content: space-between;
 }
+
+@media (max-width: 1024px) {
+    .footer {
+    max-width: 928px;
+    }
+  }

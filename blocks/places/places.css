@@ -5,3 +5,9 @@
   padding-top: 12px;
   padding-bottom: 92px;
 }
+
+@media (max-width: 1024px) {
+  .places {
+   max-width: 928px;
+  }
+}

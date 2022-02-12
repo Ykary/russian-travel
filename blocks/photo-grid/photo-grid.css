@@ -4,6 +4,12 @@
   display: -ms-grid;
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(284px, 1fr));
-  max-width: 92.5%;
+  max-width: 100%;
   gap: 16px;
+}
+
+@media (max-width: 1024px) {
+  .photo-grid {
+  gap: 14px;
+  }
 }

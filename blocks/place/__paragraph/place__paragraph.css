@@ -1,8 +1,12 @@
 .place__paragraph {
   font-size: 18px;
-  line-height: 1.63;
+  line-height: 1.61;
   font-weight: 400;
   color: white;
   margin: 0 0 26px;
   padding: 0;
   }
+
+ .place__paragraph:last-child {
+   margin-bottom: 0;
+ }

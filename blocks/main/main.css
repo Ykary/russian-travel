@@ -1,8 +1,17 @@
 .main {
   display: flex;
   flex-direction: column;
-  width: 100%;
+  width: 92.5%;
+  max-width: 1184px;
   padding-top: 56px;
   padding-bottom: 92px;
   align-self: center;
+}
+
+@media (max-width: 1024px) {
+  .main {
+    padding-top: 48px;
+    width: 90.6%;
+    max-width: 928px;
+  }
 }

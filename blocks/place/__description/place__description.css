@@ -2,3 +2,9 @@
   max-width: 484px;
   width: 100%;
 }
+
+@media (max-width: 1024px) {
+  .place__description {
+  min-width: 600px;
+  }
+}
