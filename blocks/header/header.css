@@ -19,3 +19,10 @@
      max-width: 720px;
     }
   }
+
+  @media (max-width: 320px) {
+    .header {
+      width: 90%;
+     max-width: 288px;
+    }
+  }

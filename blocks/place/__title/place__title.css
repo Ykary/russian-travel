@@ -14,5 +14,17 @@
    line-height: 44px;
    width: 340px;
   }
+  .place__title:first-child {
+    width: 288px;
+  }
+}
+
+@media (max-width: 320px) {
+  .place__title {
+   font-size: 32px;
+   line-height: 1.09;
+   width: 288px;
+   margin-left: 16px;
+  }
 }
 

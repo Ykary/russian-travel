@@ -24,3 +24,10 @@
   min-height: 480px;
   }
 }
+
+@media (max-width: 320px) {
+  .cover {
+  width: 320px;
+  min-height: 200px;
+  }
+}
