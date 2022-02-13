@@ -13,21 +13,21 @@
 
 @media (max-width: 1279px) {
   .cover {
-  max-width: 1024px;
-  min-height: 640px;
+    max-width: 1024px;
+    min-height: 640px;
   }
 }
 
 @media (max-width: 1023px) {
   .cover {
-  width: 768px;
-  min-height: 480px;
+    width: 768px;
+    min-height: 480px;
   }
 }
 
 @media (max-width: 767px) {
   .cover {
-  width: 320px;
-  min-height: 200px;
+    width: 320px;
+    min-height: 200px;
   }
 }

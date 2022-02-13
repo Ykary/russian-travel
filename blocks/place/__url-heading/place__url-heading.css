@@ -4,12 +4,11 @@
   font-weight: 400;
   letter-spacing: 2px;
   margin: 0 0 8px;
-  color: #AAAAAA;
+  color: #aaaaaa;
 }
 
-@media (max-width:768px) {
+@media (max-width: 768px) {
   .place__url-heading {
     line-height: 15px;
   }
-  
 }

@@ -6,14 +6,13 @@
   align-self: center;
   margin: 0;
   padding: 92px 0;
-  
+
   font-size: 0;
 }
 
 @media (max-width: 1279px) {
   .intro {
     max-width: 928px;
-    
   }
 }
 
@@ -21,13 +20,11 @@
   .intro {
     max-width: 720px;
     padding: 88px 0;
-    
   }
 }
 @media (max-width: 767px) {
   .intro {
     max-width: 288px;
     padding: 64px 0;
-    
   }
 }

@@ -10,19 +10,17 @@
 
 @media (max-width: 1023px) {
   .place__title {
-   font-size: 42px;
-   line-height: 44px;
-   width: 329px;
- }
- 
+    font-size: 42px;
+    line-height: 44px;
+    width: 329px;
+  }
 }
 
 @media (max-width: 767px) {
   .place__title {
-   font-size: 32px;
-   line-height: 1.09;
-   width: 288px;
-   margin-left: 16px;
+    font-size: 32px;
+    line-height: 1.09;
+    width: 288px;
+    margin-left: 16px;
   }
 }
-

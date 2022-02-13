@@ -1,6 +1,6 @@
 .place__image {
   -o-object-fit: cover;
-     object-fit: cover;
+  object-fit: cover;
   width: 100%;
   max-width: 460px;
   grid-area: image;

@@ -13,9 +13,8 @@
   }
 }
 
-
 @media (max-width: 767px) {
   .intro__text {
-      width: 288px;  
+    width: 288px;
   }
 }

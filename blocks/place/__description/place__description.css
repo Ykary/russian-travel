@@ -5,13 +5,12 @@
 
 @media (max-width: 1279px) {
   .place__description {
-  min-width: 600px;
+    min-width: 600px;
   }
 }
 
 @media (max-width: 767px) {
   .place__description {
-  min-width: 352px;
+    min-width: 352px;
   }
 }
-
