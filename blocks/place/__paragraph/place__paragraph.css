@@ -11,14 +11,14 @@
    margin-bottom: 0;
  }
 
- @media (max-width: 768px) {
+ @media (max-width: 1023px) {
   .place__paragraph {
   font-size: 16px;
   line-height: 25.95px;
   }
 }
 
-@media (max-width: 320px) {
+@media (max-width: 767px) {
   .place__paragraph {
   width: 288px;
   margin-left: 16px;
