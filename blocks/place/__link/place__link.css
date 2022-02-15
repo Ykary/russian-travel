@@ -5,6 +5,11 @@
   color: white;
   margin: 0;
   padding: 0;
+  transition: 0.2s linear;
+}
+
+.place__link:hover {
+  opacity: 30%;
 }
 
 @media (max-width: 768px) {
