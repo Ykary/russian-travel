@@ -24,7 +24,6 @@
 
 @media (max-width: 767px) {
   .main {
-    min-width: 320px;
     padding-bottom: 50px;
   }
 }

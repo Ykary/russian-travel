@@ -6,6 +6,11 @@
   text-decoration: none;
   margin-right: 18px;
   letter-spacing: 0.1px;
+  transition: 0.2s linear;
+}
+
+.footer__link:hover {
+  opacity: 30%;
 }
 
 @media (max-width: 767px) {
